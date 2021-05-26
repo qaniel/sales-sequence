@@ -1,6 +1,6 @@
 {
-  "name": "boolfly/module-sales-sequence",
-  "description": "Boolfly Sales Sequence Module",
+  "name": "qaniel/module-sales-sequence",
+  "description": "Based on Boolfly Sales Sequence Module",
   "require": {
     "php": "7.4.*",
     "boolfly/module-base": "^1.0.0"
